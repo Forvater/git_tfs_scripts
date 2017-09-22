@@ -1,4 +1,3 @@
-# git_tfs_scripts
 git tfs clone http://tfs.site.com:[port]/tfs/repo1 $/path/to/branch --branches=none -d
 
 
